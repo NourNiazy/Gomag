@@ -1,0 +1,113 @@
+h1,p{
+    margin: 0px;
+    padding:0px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:  cursive;
+}
+p,a{
+    font-family: 'Ropa Sans', sans-serif;
+}
+.ff{
+    padding-top: 250px;
+}
+
+.navbar{
+    background-color:rgba(255,255,255,0.6);
+    position: absolute;
+    width: 100%;
+
+}
+.maincolor{
+    color: #CF4845;    
+}
+.dd{
+    background-color:rgba(255,255,255,0.6);
+    text-align: center;
+    color: black;
+    padding:30px;
+    position: relative;
+}
+.dd:hover{
+    background-color:white;   
+}
+.dd p{
+    font-size: 25px;
+}
+.sp{
+    padding:30px 50px 50px 60px;  
+}
+.icons{
+    box-sizing: border-box;
+    background-color: #CF4845;
+    color: white; 
+    width:46px;
+    height: 46px;
+   padding:15px;
+   position: absolute;
+ top:-25px;
+ right:150px;
+   
+
+  }
+.active{
+    color: #CF4845;    
+}
+
+.nav-link:hover{
+  color: #CF4845;   
+}
+.first{
+    background-color: #CF4845;
+    color: white; 
+}
+.first:hover{
+    border: 1px solid;
+    background-color: transparent;
+}
+.second:hover{
+    border: 1px solid;
+    background-color: transparent;
+    color:white;
+    border-color: white;
+}
+.btn-outline-dark:hover {
+    background-color: #CF4845;
+    border: none;
+    color: white;
+  }
+  .os{
+      background-color: rgba(185, 85, 85, 0.6);
+      position: absolute;
+      height: 464px;
+      color: white;
+  }
+  .ss{
+    background-color: rgba(0,0,0,.55);
+    color: white;
+  }
+  .icon{
+    box-sizing: border-box;
+    background-color: rgba(185, 85, 85, 0.6);
+    color: white; 
+    width:36px;
+    height: 36px;
+   padding:10px;
+
+  }
+  .icon:hover{
+    background-color: rgba(116, 105, 221, 0.6);  
+  }
+  footer{
+      height: 50px;
+      padding-top: 15px;
+      color: #fff;
+  }
+  a{
+      color:white;
+      text-decoration: none;
+  }
+  a:hover{
+    color: #CF4845; 
+    text-decoration: none;   
+  }
